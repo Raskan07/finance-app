@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: teweleData
+      Authorization: apikey a46042108ec14ac79d235a527f7e7b4e
