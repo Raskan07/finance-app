@@ -7,7 +7,6 @@ import StockDetailsCard from '@/components/StockCard/StockDetailsCard';
 
 export default function TabOneScreen() {
   const data = Object.values(Top5);
-  console.log(data)
   
   return (
     <View>
